@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> Instagram </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<header><h1> Check Our Products! </h1></header>
+
+	<div class = "navigation">
+		<a href = "skrip.html"> Filosofi </a>
+		<a href = "kelompok.html"> Anggota </a>
+		<a class ="active" href ="#link"></a> Instagram </a>
+        </div>
+
+	<div class ="list">
+		<ul><br><a href ="https://www.instagram.com/tv/CLDdHfrA14b/?igshid=w9vmcyplooit/"> Pie Susu </a>
+		</ul>
+		<ul><br><a href ="https://www.instagram.com/tv/CLDfYMAgGqp/?igshid=850v7qmfa8nq/"> Crispy Pizza </a>
+		</ul>
+	</div>
+
+</body>
+</html>
