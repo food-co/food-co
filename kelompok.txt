@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> Identity </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+	<h1> Who We Are </h1>
+
+	<nav><ul>
+		<li><a href = "skrip.html"> Company Profile </a></li>
+		<li><a class ="active" href ="#kelompok"></a> About Us </a></li>
+		<li><a href = "link.html"> Our Products </a></li>
+		<li><a href = "lokasi.html"> Our Location </a></li>
+	</ul><nav>
+
+	<img src="anggota.jpg">
+
+	<br>
+	<p><b>Hello, we are the Food&Co company!</b></p>
+	<br>We are an upcoming company from XII MIPA 1
+	<br>Our members are Athaya, Adilah, Gracia, Ariel, and Avril
+	<br>We each contribute differently to this company
+	<br>
+	<br>Athaya is tasked as our resident graphic designer
+	<br>Adilah and Gracia both work as content fillers
+	<br>Ariel makes our report look absolutely fabulous
+	<br>Avril designs the websites you are currently seeing
+	
+	<br><br><br><br>
+	<p><b>We hope you would enjoy the experience you have with us!</b></p>
+
+</body>
+</html>

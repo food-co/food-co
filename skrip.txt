@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+<head>
+	<title>Information</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+	<h1>Welcome to Food&Co</h1>
+
+	<nav><ul>
+		<li><a class ="active" href ="#filosofi"> </a> Company Profile </a></li>
+		<li><a href = "kelompok.html"> About Us </a></li>
+		<li><a href = "link.html"> Our Products </a></li>
+		<li><a href = "lokasi.html"> Our Location </a></li>
+	</ul><nav>
+
+	<img src="Food&Co.jpg">
+
+	<br><b>Filosofi Logo</b></p>
+	Logo bergambar pisau, sendok, dan garpu melambangkan makanan yang kami sajikan simple, 
+	<br>tetapi tetap terasa mewah, lezat, dan fresh from the oven 
+	<br>sesuai warna yang kami pakai, yaitu kuning.
+	<br><br>
+
+	<p><b>Visi dan Misi</b></p>
+	Menghidangkan makanan dengan harga kaki lima dengan kualitas dan pelayanan bintang lima 
+	<br>dengan memberikan hasil dokumentasi kepada calon konsumen sebagai bukti bahwa makanan kami fresh from the oven.
+
+</body>
+</html>
